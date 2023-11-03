@@ -1,0 +1,16 @@
+{
+  "name": "anything",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shavez",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "install": "^0.13.0",
+    "npm": "^10.2.3"
+  }
+}

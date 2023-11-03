@@ -1,0 +1,19 @@
+# video_compressor
+compress video in different resolutions using FFmpeg
+
+
+## Go throug this blog
+download ffmpeg extract it in 'C' drive rename as FFpeg
+cmd run as administrator 
+setx /m PATH "C:\ffmpeg\bin;%PATH%"
+ffmpeg : checked installed or not
+[FFmpeg]( https://www.gyan.dev/ffmpeg/builds)
+
+## Node project 
+create index.js
+npm init
+npm i fluent-ffmpeg
+video.mp4
+
+## run proj 
+node index.js video.mp4
